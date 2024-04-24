@@ -141,66 +141,65 @@
 
 ## Classification
 
-| Title                                                        | Pdf                                                          | Code |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| A Multi-Task Method for Immunofixation Electrophoresis Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_15) |      |
-| Boosting Breast Ultrasound Video Classification by the Guidance of Keyframe Feature Centers | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_43) |      |
-| CARL: Cross-aligned Representation Learning for Multi-view Lung Cancer Histology Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_35) |      |
-| CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_47) |      |
-| Chest X-ray Image Classification: A Causal Perspective       | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_3) |      |
-| Combat Long-tails in Medical Classification with Relation-aware Consistency and Virtual Features Compensation | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_2) |      |
-| cOOpD: Reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_4) |      |
-| COVID-19 Pneumonia Classification with Transformer from Incomplete Modalities | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_37) |      |
-| Cross-Dataset Adaptation for Instrument Classification in Cataract Surgery Videos | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_70) |      |
-| Cross-modulated Few-shot Image Generation for Colorectal Tissue Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_13) |      |
-| DAS-MIL: Distilling Across Scales for MIL Classification of Histological WSIs | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_24) |      |
-| DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_10) |      |
-| DiffMix: Diffusion Model-based Data Synthesis for Nuclei Segmentation and Classification in Imbalanced Pathology Image Datasets | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_33) |      |
-| Dynamic Curriculum Learning via In-Domain Uncertainty for Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_72) |      |
-| ECL: Class-Enhancement Contrastive Learning for Long-tailed Skin Lesion Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_23) |      |
-| Explainable Image Classification with Improved Trustworthiness for Tissue Characterisation | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_54) |      |
-| FairAdaBN: Mitigating unfairness with adaptive batch normalization and its application to dermatological disease classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_29) |      |
-| FEDD - Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_26) |      |
-| FedIIC: Towards Robust Federated Learning for Class-Imbalanced Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_65) |      |
-| Fundus-Enhanced Disease-Aware Distillation Model for Retinal Disease Classification from OCT Images | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_60) |      |
-| Gene-induced Multimodal Pre-training for Image-omic Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_49) |      |
-| HC-Net: Hybrid Classification Network for Automatic Periodontal Disease Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_6) |      |
-| Histopathology Image Classification using Deep Manifold Contrastive Learning | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_66) |      |
-| Interpretable Medical Image Classification using Prototype Learning and Privileged Information | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_41) |      |
-| Iteratively Coupled Multiple Instance Learning from Instance to Bag Classifier for Whole Slide Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_45) |      |
-| Longitudinal Multimodal Transformer Integrating Imaging and Latent Clinical Signatures From Routine EHRs for Pulmonary Nodule Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_61) |      |
-| ProtoASNet: Dynamic Prototypes for Inherently Interpretable and Uncertainty-Aware Aortic Stenosis Classification in Echocardiography | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_36) |      |
-| Radiomics-Informed Deep Learning for Classification of Atrial Fibrillation Sub-Types from Left-Atrium CT Volumes | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_15) |      |
-| Scale Federated Learning for Label Set Mismatch in Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_12) |      |
-| SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_3) |      |
-| Text-guided Foundation Model Adaptation for Pathological Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_27) |      |
-| The Role of Subgroup Separability in Group-Fair Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_18) |      |
-| Transformer-based end-to-end classification of variable-length volumetric data | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_35) |      |
-| TransLiver: A Hybrid Transformer Model for Multi-phase Liver Lesion Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_31) |      |
-| Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_4) |      |
-| Understanding Silent Failures in Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_39) |      |
-| Unsupervised classification of congenital inner ear malformations using DeepDiffusion for latent space representation | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_63) |      |
-| Weakly-supervised positional contrastive learning: application to cirrhosis classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_22) |      |
-| Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_41) |      |
-| Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_10) |      |
-| MixUp-MIL: Novel Data Augmentation for Multiple Instance Learning and a Study on Thyroid Cancer Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_46) |      |
-| Lesion-aware Contrastive Learning for Diabetic Retinopathy Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_63) |      |
-| Learning Asynchronous Common and Individual Functional Brain Network for AD Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_21) |      |
-| Learnable Subdivision Graph Neural Network for Functional Brain Network Analysis and Interpretable Cognitive Disorder Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_6) |      |
-| HC-Net: Hybrid Classification Network for Automatic Periodontal Disease Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_6) |      |
-| HACL-Net: Hierarchical Attention and Contrastive Learning Network for MRI-Based Placenta Accreta Spectrum Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_29) |      |
-| FE-STGNN: Spatio-Temporal Graph Neural Network with Functional and Effective Connectivity Fusion for MCI Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_7) |      |
-| EdgeMixup: Embarrassingly Simple Data Alteration to Improve Lyme Disease Lesion Segmentation and Diagnosis Fairness | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_36) |      |
-| Distributionally Robust Image Classifiers for Stroke Diagnosis in Accelerated MRI | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_74) |      |
-| Development and Fast Transferring of General Connectivity-based Diagnosis Model to New Brain Disorders with Adaptive Graph Meta-learner | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_10) |      |
-| A Video-based End-to-end Pipeline for Non-nutritive Sucking Action Recognition and Segmentation in Young Infants | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_55) |      |
-| EPVT: Environment-aware Prompt Vision Transformer for Domain Generalization in Skin Lesion Recognition | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_24) |      |
-| Exploring Unsupervised Cell Recognition with Prior Self-activation Maps | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_54) |      |
-| Forensic Histopathological Recognition via a Context-Aware MIL Network Powered by Self-Supervised Contrastive Learning | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_51) |      |
-| GLSFormer : Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_37) |      |
-| Label-preserving Data Augmentation in Latent Space for Diabetic Retinopathy Recognition | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_28) |      |
-| On the Relevance of Temporal Features for Medical Ultrasound Video Recognition | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_70) |      |
-| Pelphix: Surgical Phase Recognition from X-ray Images in Percutaneous Pelvic Fixation | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_13) |      |
-| Representation, Alignment, Fusion: A Generic Transformer-based Framework for Multi-modal Glaucoma Recognition | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_66) |      |
-| Self-distillation for surgical action recognition            | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_61) |      |
+| Title                                                        | Pdf                                                          | Code                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------- |
+| A Multi-Task Method for Immunofixation Electrophoresis Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_15) | [code](https://github.com/shiy19/IFE-classification) |
+| CARL: Cross-aligned Representation Learning for Multi-view Lung Cancer Histology Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_35) | [code](https://github.com/candyknife/CARL)           |
+| CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_47) |                                                      |
+| Chest X-ray Image Classification: A Causal Perspective       | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_3) |                                                      |
+| Combat Long-tails in Medical Classification with Relation-aware Consistency and Virtual Features Compensation | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_2) |                                                      |
+| cOOpD: Reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_4) |                                                      |
+| COVID-19 Pneumonia Classification with Transformer from Incomplete Modalities | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_37) |                                                      |
+| Cross-Dataset Adaptation for Instrument Classification in Cataract Surgery Videos | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_70) |                                                      |
+| Cross-modulated Few-shot Image Generation for Colorectal Tissue Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_13) |                                                      |
+| DAS-MIL: Distilling Across Scales for MIL Classification of Histological WSIs | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_24) |                                                      |
+| DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_10) |                                                      |
+| DiffMix: Diffusion Model-based Data Synthesis for Nuclei Segmentation and Classification in Imbalanced Pathology Image Datasets | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_33) |                                                      |
+| Dynamic Curriculum Learning via In-Domain Uncertainty for Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_72) |                                                      |
+| ECL: Class-Enhancement Contrastive Learning for Long-tailed Skin Lesion Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_23) |                                                      |
+| Explainable Image Classification with Improved Trustworthiness for Tissue Characterisation | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_54) |                                                      |
+| FairAdaBN: Mitigating unfairness with adaptive batch normalization and its application to dermatological disease classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_29) |                                                      |
+| FEDD - Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_26) |                                                      |
+| FedIIC: Towards Robust Federated Learning for Class-Imbalanced Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_65) |                                                      |
+| Fundus-Enhanced Disease-Aware Distillation Model for Retinal Disease Classification from OCT Images | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_60) |                                                      |
+| Gene-induced Multimodal Pre-training for Image-omic Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_49) |                                                      |
+| HC-Net: Hybrid Classification Network for Automatic Periodontal Disease Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_6) |                                                      |
+| Histopathology Image Classification using Deep Manifold Contrastive Learning | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_66) |                                                      |
+| Interpretable Medical Image Classification using Prototype Learning and Privileged Information | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_41) |                                                      |
+| Iteratively Coupled Multiple Instance Learning from Instance to Bag Classifier for Whole Slide Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_45) |                                                      |
+| Longitudinal Multimodal Transformer Integrating Imaging and Latent Clinical Signatures From Routine EHRs for Pulmonary Nodule Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_61) |                                                      |
+| ProtoASNet: Dynamic Prototypes for Inherently Interpretable and Uncertainty-Aware Aortic Stenosis Classification in Echocardiography | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_36) |                                                      |
+| Radiomics-Informed Deep Learning for Classification of Atrial Fibrillation Sub-Types from Left-Atrium CT Volumes | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_15) |                                                      |
+| Scale Federated Learning for Label Set Mismatch in Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_12) |                                                      |
+| SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_3) |                                                      |
+| Text-guided Foundation Model Adaptation for Pathological Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_27) |                                                      |
+| The Role of Subgroup Separability in Group-Fair Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_18) |                                                      |
+| Transformer-based end-to-end classification of variable-length volumetric data | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_35) |                                                      |
+| TransLiver: A Hybrid Transformer Model for Multi-phase Liver Lesion Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_31) |                                                      |
+| Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_4) |                                                      |
+| Understanding Silent Failures in Medical Image Classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_39) |                                                      |
+| Unsupervised classification of congenital inner ear malformations using DeepDiffusion for latent space representation | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_63) |                                                      |
+| Weakly-supervised positional contrastive learning: application to cirrhosis classification | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_22) |                                                      |
+| Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_41) |                                                      |
+| Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_10) |                                                      |
+| MixUp-MIL: Novel Data Augmentation for Multiple Instance Learning and a Study on Thyroid Cancer Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_46) |                                                      |
+| Lesion-aware Contrastive Learning for Diabetic Retinopathy Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_63) |                                                      |
+| Learning Asynchronous Common and Individual Functional Brain Network for AD Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_21) |                                                      |
+| Learnable Subdivision Graph Neural Network for Functional Brain Network Analysis and Interpretable Cognitive Disorder Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_6) |                                                      |
+| HC-Net: Hybrid Classification Network for Automatic Periodontal Disease Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_6) |                                                      |
+| HACL-Net: Hierarchical Attention and Contrastive Learning Network for MRI-Based Placenta Accreta Spectrum Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_29) |                                                      |
+| FE-STGNN: Spatio-Temporal Graph Neural Network with Functional and Effective Connectivity Fusion for MCI Diagnosis | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_7) |                                                      |
+| EdgeMixup: Embarrassingly Simple Data Alteration to Improve Lyme Disease Lesion Segmentation and Diagnosis Fairness | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_36) |                                                      |
+| Distributionally Robust Image Classifiers for Stroke Diagnosis in Accelerated MRI | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_74) |                                                      |
+| Development and Fast Transferring of General Connectivity-based Diagnosis Model to New Brain Disorders with Adaptive Graph Meta-learner | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_10) |                                                      |
+| A Video-based End-to-end Pipeline for Non-nutritive Sucking Action Recognition and Segmentation in Young Infants | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_55) |                                                      |
+| EPVT: Environment-aware Prompt Vision Transformer for Domain Generalization in Skin Lesion Recognition | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_24) |                                                      |
+| Exploring Unsupervised Cell Recognition with Prior Self-activation Maps | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_54) |                                                      |
+| Forensic Histopathological Recognition via a Context-Aware MIL Network Powered by Self-Supervised Contrastive Learning | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_51) |                                                      |
+| GLSFormer : Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_37) |                                                      |
+| Label-preserving Data Augmentation in Latent Space for Diabetic Retinopathy Recognition | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_28) |                                                      |
+| On the Relevance of Temporal Features for Medical Ultrasound Video Recognition | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_70) |                                                      |
+| Pelphix: Surgical Phase Recognition from X-ray Images in Percutaneous Pelvic Fixation | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_13) |                                                      |
+| Representation, Alignment, Fusion: A Generic Transformer-based Framework for Multi-modal Glaucoma Recognition | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_66) |                                                      |
+| Self-distillation for surgical action recognition            | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_61) |                                                      |
 
