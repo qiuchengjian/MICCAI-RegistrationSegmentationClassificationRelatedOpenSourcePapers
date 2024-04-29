@@ -1,5 +1,28 @@
 # MICCAI 2023 Registration Segmentation and Classification related Open-Source Papers
 
+## Registration
+
+| Title                                                        | Pdf                                                          | Code |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| A denoised Mean Teacher for domain adaptive point cloud registration | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_63) |      |
+| A Patient-Specific Self-supervised Model for Automatic X-ray/CT Registration | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_49) |      |
+| An Unsupervised Multispectral Image Registration Network for Skin Diseases | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_68) |      |
+| Co-Learning Semantic-aware Unsupervised Segmentation for Pathological Image Registration | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_51) |      |
+| CortexMorph: fast cortical thickness estimation via diffeomorphic registration using VoxelMorph | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_69) |      |
+| DISA: DIfferentiable Similarity Approximation for Universal Multimodal Registration | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_72) |      |
+| FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_62) |      |
+| GSMorph: Gradient Surgery for cine-MRI Cardiac Deformable Registration | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_58) |      |
+| Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_61) |      |
+| Inverse Consistency by Construction for Multistep Deep Registration | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_65) |      |
+| Learning Expected Appearances for Intraoperative Registration during Neurosurgery | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_22) |      |
+| ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_70) |      |
+| Non-iterative Coarse-to-fine Transformer Networks for Joint Affine and Deformable Image Registration | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_71) |      |
+| PIViT: Large Deformation Image Registration with Pyramid-Iterative Vision Transformer | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_57) |      |
+| Unsupervised 3D registration through optimization-guided cyclical self-training | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_64) |      |
+| X-Ray to CT Rigid Registration Using Scene Coordinate Regression | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_74) |      |
+
+
+
 ## Segmentation
 
 | Title                                                        | Pdf                                                          | Code                                                  |
@@ -203,4 +226,11 @@
 | Pelphix: Surgical Phase Recognition from X-ray Images in Percutaneous Pelvic Fixation | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_13) |                                                      |
 | Representation, Alignment, Fusion: A Generic Transformer-based Framework for Multi-modal Glaucoma Recognition | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_66) |                                                      |
 | Self-distillation for surgical action recognition            | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_61) |                                                      |
+| A Multi-Task Network for Anatomy Identification in Endoscopic Pituitary Surgery | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_45) |                                                      |
+| An Explainable Geometric-Weighted Graph Attention Network for Identifying Functional Networks Associated with Gait Impairment | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_68) |                                                      |
+| Data AUDIT: Identifying Attribute Utility- and Detectability-Induced Bias in Task Models | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_43) |                                                      |
+| Deep Learning for Tumor-associated Stroma Identification in Prostate Histopathology Slides | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_62) |                                                      |
+| Deep unsupervised clustering for conditional identification of subgroups within a digital pathology image set | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_64) |                                                      |
+| Multi-View Vertebra Localization and Identification from CT Images | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_14) |                                                      |
+| Robust vertebra identification using simultaneous node and edge predicting Graph Neural Networks | [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_46) |                                                      |
 
